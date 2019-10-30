@@ -313,3 +313,11 @@ http://play.starbr.top/live/admteste20/extreme21/20831.m3u8
 http://play.starbr.top/live/admteste20/extreme21/38470.m3u8
 #EXTINF:-1 tvg-ID="rititv" tvg-name="RIT TV" group-title="Religiosos",RIT TV| TechRuthes.com
 http://play.starbr.top/live/admteste20/extreme21/37780.m3u8
+#EXTINF:-1 type="stream" tvg-id="A Fazenda 11" tvg-logo="https://i.ibb.co/PhfqYRv/afazenda11.png" group-title="Variedade",A Fazenda 11
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/27861.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FULL HD" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC FULL HD
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18857.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC HD
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18736.m3u8
+#EXTINF:-1 tvg-id="AeE" tvg-name="A&E FULL HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E FULL HD
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18858.m3u8
